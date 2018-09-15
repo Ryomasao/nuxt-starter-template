@@ -1,8 +1,8 @@
 {
-  "name": "{{ name }}",
+  "name": "sample",
   "version": "1.0.0",
-  "description": "{{ description }}",
-  "author": "{{ author }}",
+  "description": "my sample project",
+  "author": "author",
   "private": true,
   "scripts": {
     "dev": "nuxt",
